@@ -27,7 +27,7 @@ if you are not using nix, or nixos, you will want to change this to `` #/!bin/ba
 2. figlet
 
 ## Final notes
-There's obviously no warrenty; don't run code on your computer that you haven't read every line of, and understood. that's why programmers write comments.
+There's obviously no warranty; don't run code on your computer that you haven't read every line of, and understood. that's why programmers write comments.
 
 ### Created by John Bargman in January of 2022
 ### This code is MIT licensed, it's free software - keep it that way.
