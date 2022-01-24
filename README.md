@@ -23,8 +23,8 @@ The Shebang at the top of the script is used for Nix; it invokes bash with jq an
    #!nix-shell -i bash -p jq figlet
 ```
 if you are not using nix, or nixos, you will want to change this to `` #/!bin/bash `` and pollute your user environment with these packages:
-    1. jq
-    2. figlet
+1. jq
+2. figlet
 
 ## Final notes
 There's obviously no warrenty; don't run code on your computer that you haven't read every line of, and understood. that's why programmers write comments.
